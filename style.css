@@ -1,0 +1,129 @@
+body
+{
+
+}
+
+#heading{
+   width: 100%;
+  size: 10px;
+   
+  color: black;
+
+  font-size: 27px;
+
+}
+
+#TheInstructions{
+   width: 100px;
+
+   color: black;
+
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+   font-size: 18px;
+
+border-color: white;
+
+ border-radius: 10px;
+
+ border-width: 9px;
+
+ float: right;
+}
+
+#TheFirsth3{
+
+
+size: 10px;
+   
+  color: black;
+
+  font-size: 27px;
+
+  margin: left;
+
+  border-radius: 23px;
+
+  border-color: white;
+
+  border-width: 10px;
+}
+
+#StartTheGame{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    border-radius: 27%;
+
+    border-color: black;
+
+    box-shadow: gray, 10, 10, 10;
+}
+
+#status{
+  color: orange;
+  border-radius: 10px;
+
+border-color: rgb(4, 235, 4);
+ 
+  border-width: 10px;
+
+
+}
+
+#restart{
+    background-color: orange;
+
+    border-color: black;
+
+    border-width: 3px;
+
+    height: 36px;
+
+  width: 40x;
+
+
+}
+
+
+#InstructionsH4PartTwo{
+  height: 270px;
+
+  width: 400px;
+
+
+}
+
+#MarineBiology{
+   height: 450px;
+   
+   width: 450px;
+
+   border: black;
+
+   border-width: 10px;
+
+   border-radius: 73px;
+
+
+}
+
+canvas{
+border: 3px solid cyan;
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px grey;
+
+background-color: white;
+
+}
+
+#h4bio{
+
+  color: white;
+  
+}
